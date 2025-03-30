@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: lightgrey;
+    background-color: #d3d3d3;
     font-family: Verdana, sans-serif;
     display: flex;
     justify-content: center;
@@ -25,7 +25,7 @@ body {
     transform-style: preserve-3d;
     transition: transform 0.8s;
     position: relative;
-    border: 0.3125rem solid rgba(0, 0, 0, 1);
+    border: 0.3125rem solid rgb(228, 143, 143);
     border-radius: 30%;
 }
 
